@@ -37,12 +37,9 @@ img {
   align-items: center;
 }
 
-.flex {
-justify-content: flex-end;
-}
 .flex0 {
   display: block;
-  margin-left: 10px;
+  margin-left: 5px;
 }
 .flex2 {
   text-decoration: underline;
