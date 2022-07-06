@@ -40,7 +40,9 @@ img {
   display: block;
   margin-left: 10px;
 }
-
+.flex {
+justify-content: space-around;
+}
 .flex2 {
   text-decoration: underline;
   color: hsl(245, 75%, 52%);
