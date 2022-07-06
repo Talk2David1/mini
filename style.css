@@ -39,6 +39,7 @@ img {
 
 .flex0 {
   display: block;
+  flex-shrink: 0;
 }
 .flex2 {
   text-decoration: underline;
