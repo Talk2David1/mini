@@ -38,8 +38,9 @@ img {
 }
 
 .flex0 {
-  display: block;
   flex-shrink: 0;
+  display: block;
+  margin-left: 10px;
 }
 .flex2 {
   text-decoration: underline;
