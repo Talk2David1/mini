@@ -36,12 +36,13 @@ img {
   margin: 20px;
   align-items: center;
 }
+
+.flex {
+justify-content: flex-end;
+}
 .flex0 {
   display: block;
   margin-left: 10px;
-}
-.flex {
-justify-content: space-around;
 }
 .flex2 {
   text-decoration: underline;
