@@ -1,1 +1,1 @@
-- [GitHub Pages](https://talk2david1.github.io/mini/)
+- [GitHub Page](https://talk2david1.github.io/mini/)
